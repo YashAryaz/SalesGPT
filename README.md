@@ -1,5 +1,5 @@
 # SalesGPT: A GPT-based Sales Conversation Simulator 
-![Sample Chat](./static/samplechat.png)
+![Sample Chat](https://github.com/YashAryaz/SalesGPT/assets/samplechat.png)
 # Architecture
 ![Architecture](./static/SalesGPT.jpeg)
 
