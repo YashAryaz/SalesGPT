@@ -22,7 +22,7 @@
 - **MongoDB Integration for Data Storage**: The application stores the extracted prospect data in a MongoDB database. This allows for persistent storage and easy retrieval of prospect data.
 
 
-![DB](./static/DataBase.png)
+![DB](static/DataBase.png)
 
 ## Installation
 1. Install the required dependencies: `pip install -r requirements.txt`
