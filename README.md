@@ -40,3 +40,5 @@
 ## Logging
 
 The application logs messages to a file named `app.log`. You can view the log messages by opening this file.
+## Reference
+https://github.com/langchain-ai/langchain/blob/master/cookbook/sales_agent_with_context.ipynb
