@@ -1,7 +1,7 @@
 # SalesGPT: A GPT-based Sales Conversation Simulator 
-<img src="https://github.com/YashAryaz/SalesGPT/blob/main/assets/samplechat" alt="mockup" width="900"/>
+![samplechat](https://github.com/YashAryaz/SalesGPT/assets/123569367/3b1742d8-77dc-444b-9da4-0b8974209fb3)
 # Architecture
-![Architecture](./static/SalesGPT.jpeg)
+![SalesGPT](https://github.com/YashAryaz/SalesGPT/assets/123569367/bdc4be59-85a8-46c1-8a28-a5c2bb8f5b0c)
 
 ## Old-Features
 - **GPT-based Sales Conversations**: The application uses a GPT-4 model to simulate sales conversations. The model can generate responses to user queries in a conversational manner.
@@ -22,7 +22,7 @@
 - **MongoDB Integration for Data Storage**: The application stores the extracted prospect data in a MongoDB database. This allows for persistent storage and easy retrieval of prospect data.
 
 
-![DB](static/DataBase.png)
+![DataBase](https://github.com/YashAryaz/SalesGPT/assets/123569367/902058c0-607e-4758-ae7e-14a0a34f780e)
 
 ## Installation
 1. Install the required dependencies: `pip install -r requirements.txt`
