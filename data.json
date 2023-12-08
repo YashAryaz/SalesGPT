@@ -1,0 +1,41 @@
+{
+    "inventory": [
+    {
+            
+    "product_id": "RO1001",
+    "product_name": "AquaPure Home",
+    "description": "5-stage RO system with UV purification",
+    "price": 199.99,
+    "currency": "USD",
+    "in_stock": 150,
+    "replacement_filters_available": true
+    },
+    {
+    "product_id": "RO1002",
+    "product_name": "ClearFlow Office",
+    "description": "8-stage RO system for high-capacity use",
+    "price": 399.99,
+    "currency": "USD",
+    "in_stock": 75,
+    "replacement_filters_available": true
+    },
+    {
+    "product_id": "RO1003",
+    "product_name": "HydroHealth Travel",
+    "description": "Portable RO purifier for travelers",
+    "price": 99.99,
+    "currency": "USD",
+    "in_stock": 0,
+    "replacement_filters_available": false
+    },
+    {
+    "product_id": "RO1004",
+    "product_name": "SpringFalls Countertop",
+    "description": "Compact RO system with smart monitoring",
+    "price": 249.99,
+    "currency": "USD",
+    "in_stock": 25,
+    "replacement_filters_available": true
+    }
+    ]
+    }
