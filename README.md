@@ -1,7 +1,7 @@
 # SalesGPT: A GPT-based Sales Conversation Simulator 
-![Sample Chat](static/samplechat.png)
+![Sample Chat](./static/samplechat.png)
 # Architecture
-![Architecture](static/SalesGPT.jpeg)
+![Architecture](./static/SalesGPT.jpeg)
 
 ## Old-Features
 - **GPT-based Sales Conversations**: The application uses a GPT-4 model to simulate sales conversations. The model can generate responses to user queries in a conversational manner.
@@ -22,7 +22,7 @@
 - **MongoDB Integration for Data Storage**: The application stores the extracted prospect data in a MongoDB database. This allows for persistent storage and easy retrieval of prospect data.
 
 
-![DB](static/DataBase.png)
+![DB](./static/DataBase.png)
 
 ## Installation
 1. Install the required dependencies: `pip install -r requirements.txt`
