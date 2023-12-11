@@ -1,5 +1,5 @@
 # SalesGPT: A GPT-based Sales Conversation Simulator 
-![samplechat](https://github.com/YashAryaz/SalesGPT/assets/123569367/3b1742d8-77dc-444b-9da4-0b8974209fb3)
+![salesgpt](https://github.com/YashAryaz/SalesGPT/assets/123569367/16676ac6-01bf-422f-83c4-b09bbba30e75)
 # Architecture
 ![SalesGPT](https://github.com/YashAryaz/SalesGPT/assets/123569367/bdc4be59-85a8-46c1-8a28-a5c2bb8f5b0c)
 
